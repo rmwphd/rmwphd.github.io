@@ -14,8 +14,7 @@ A note: I've been running this on Mac for the past couple years, so there may be
 My base layer remains QWERTY-based, because every time I think of switching alpha layouts, I fall down the "which layout should I choose?" rabbithole until I get tired :-)
 Of course, the actual organization of the alpha layer isn't the secret sauce in a QWERTY-based layout and I think most of what I've done here would work just as well with Colemak or ASETNIOP or any of the others.
 
-[IMAGE HERE]
-
+![An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_0.png)
 
 I've indicated a few things with colors in this layout. 
 Most notably, keys that trigger any kind of layer transition are colored in a particular color corresponding to the layer the lead to.
