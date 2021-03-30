@@ -1,9 +1,3 @@
----
-layout: page
-title: "My Ergodox EZ Layout"
-permalink: /ergodox/
----
-
 # My Ergodox Layout
 
 I've often found myself wanting to share and explain the keyboard layout I developed over four years of using an Ergodox EZ as a daily driver at work. 
