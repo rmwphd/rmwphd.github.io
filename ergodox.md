@@ -1,7 +1,9 @@
 # My Ergodox Layout
+### An Abundance of Layers
 
 I've often found myself wanting to share and explain the keyboard layout I developed over four years of using an Ergodox EZ as a daily driver at work. 
 However, because I moved from using the Configurator to writing my own keymaps in C years ago, it's pretty difficult to share the theory and utility of the layout with most people.  
+
 So, I finally undertook to write up my latest 'map in KLE (the Keyboard Layout Editor) and to describe it here, in detail. 
 This is just what has worked for me and there's no reason in particular that it should or shouldn't work for you. 
 Then again, I've written proposals, Powerpoints, LaTeX, C, C++, Python, R, emails, Teams messages, reports, and spreadsheets with this layout and I think it handles all of these use cases well. 
