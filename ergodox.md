@@ -1,6 +1,8 @@
+--
 layout: page
 title: "My Ergodox EZ Layout"
 permalink: /ergodox/
+--
 
 # My Ergodox Layout
 
