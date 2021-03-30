@@ -6,7 +6,10 @@ So, I finally undertook to write up my latest 'map in KLE (the Keyboard Layout E
 This is just what has worked for me and there's no reason in particular that it should or shouldn't work for you. 
 Then again, I've written proposals, Powerpoints, LaTeX, C, C++, Python, R, emails, Teams messages, reports, and spreadsheets with this layout and I think it handles all of these use cases well. 
 
-A note: I've been running this on Mac for the past couple years, so there may be some Mac-isms at various places in the map (e.g., the desktop switcher keys). 
+If you'd like to follow along in the code as we step through the various layers, you can find the [latest version of the keymap here](https://github.com/rmwphd/qmk_firmware/tree/rmw/keyboards/ergodox_ez/keymaps/rmw) and the [users folder containing a lot of the magic pixie dust here](https://github.com/rmwphd/qmk_firmware/tree/rmw/users/rmw).
+
+A note: I've been running this on Mac for the past couple years, so there may be some Mac-isms at various places in the map and especially in the code (e.g., in the desktop switcher keys). Also, the keymap-mac.c file is definitely the most up-to-date and is the map I based this document on, as well. 
+
 
 
 ## The Base Layer
@@ -14,7 +17,7 @@ A note: I've been running this on Mac for the past couple years, so there may be
 My base layer remains QWERTY-based, because every time I think of switching alpha layouts, I fall down the "which layout should I choose?" rabbithole until I get tired :-)
 Of course, the actual organization of the alpha layer isn't the secret sauce in a QWERTY-based layout and I think most of what I've done here would work just as well with Colemak or ASETNIOP or any of the others.
 
-![An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_0.png)
+![Base Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_0.png)
 
 I've indicated a few things with colors in this layout. 
 Most notably, keys that trigger any kind of layer transition are colored in a particular color corresponding to the layer the lead to.
@@ -28,9 +31,7 @@ If you get into a layer via an LT, if that same key has a function in the target
 This is the next layer in the stack, so it's the next one I'll talk about. 
 It's a quite straightforward layer, overall, though I take advantage of the Ergodox's plentiful keys to get a little more bang for my layer buck than I do on, e.g., the equivalent Gergo keymap.
 
-[IMAGE HERE]
-
-
+![NUMPAD Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_numpad.png)
 
 
 ## The EDIT Layer
@@ -40,9 +41,7 @@ I had been using a Vortex Poker 3 keyboard before the 'dox and really appreciate
 So, when I got my new keyboard, obviously that was the first thing I replicated! 
 I'd also put a few AHK scripts together for the Pok3r for things like "move one word ahead" (option-right on Mac, control-right on Windows) and found them super useful for text editing, so I added those in, too, and before long I had the concept of a whole layer dedicated to editing text.
 
-
-[IMAGE HERE PLZ]
-
+![EDIT Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_edit.png)
 
 
 ## The F and J Alternate Hands Home Row Symbols Layers
@@ -50,13 +49,9 @@ I'd also put a few AHK scripts together for the Pok3r for things like "move one 
 These are some of my favorite layers in the layout and I find myself reaching for them constantly, especially anytime I'm coding. 
 Features like the home row punctuation, the parens/braces/brackets, and the equals, dash, underscore group massively reduce the amount of time I bring my hands out of home position.
 
+![FSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_flayer.png)
 
-[IMAGE HERE]
-
-
-
-[OTHER IMAGE HERE]
-
+![JSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_jlayer.png)
 
 
 ## The MEDIA Layer
@@ -64,7 +59,7 @@ Features like the home row punctuation, the parens/braces/brackets, and the equa
 Here we have some controls for media and some mouse keys that I find occasionally useful for various tasks. 
 This layer is reasonbly self-explanatory.
 
-[IMAGE HERE]
+![MEDIA Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_media.png)
 
 It's nice to be able to bring my right hand down one row and have all of my media controls right there.
 
@@ -74,15 +69,13 @@ It's nice to be able to bring my right hand down one row and have all of my medi
 This is the least exciting layer and is more for safety than anything else. 
 If I want to hang out in FSYM layer for a while or I somehow get stuck in MEDIA, I've always got the option to pop over to ADJUST and bail out to the base layer.
 
-[IMG]
+![ADJUST Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_adjust.png)
 
 
 
+That's it! That's the keymap. You can find the source for this keymap in the [rmw keymap folder](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ergodox_ez/keymaps/rmw) in the qmk repo. 
+The absolute latest version is more likely to be found on my fork, [especially in the rmw branch](https://github.com/rmwphd/qmk_firmware/tree/rmw/keyboards/ergodox_ez/keymaps/rmw).
+Lots of my TapDances, custom keycodes, and other assorted Stuff resides in [my users folder](https://github.com/rmwphd/qmk_firmware/tree/rmw/users/rmw), as well, so if you don't recognize something, check there. I've linked that folder in my fork and branch, but of course there's a copy in the main repo, as well.
 
 
-
-
-
-
-
-
+Also, it may interest you to learn that I have created versions of this keymap for [Gergo](https://github.com/rmwphd/qmk_firmware/tree/rmw/keyboards/gergo/keymaps/rmw), [Kyria](https://github.com/rmwphd/qmk_firmware/tree/rmw/keyboards/kyria/keymaps/rmw), and [Mitosis](https://github.com/rmwphd/qmk_firmware/tree/rmw/keyboards/mitosis/keymaps/rmw), as well. 
