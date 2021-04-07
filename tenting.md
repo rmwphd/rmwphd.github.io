@@ -1,13 +1,13 @@
 # Tenting
 ## The Ballhead Method (aka "tripod-style")
 
-![Tenting setup 1](/images/Tent1.png)
+![Tenting setup 1](/images/Tent1.jpg)
 
-![Tenting setup 2](/images/Tent2.png)
+![Tenting setup 2](/images/Tent2.jpg)
 
-![Tenting setup 3](/images/Tent3.png)
+![Tenting setup 3](/images/Tent3.jpg)
 
-![Tenting setup 4](/images/Tent4.png)
+![Tenting setup 4](/images/Tent4.jpg)
 
 This is the most flexible tenting solution I've come across. All you need is a way to affix your boards to a cheeseplate or any other way of getting your boards affixed to a 1/4"-20 threaded hole and you're golden. I've used it off the front edge of a desk, clamped onto a cheap laptop riser shelf/stack, clamped onto a TV tray... it Just Works.
 
