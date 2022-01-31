@@ -19,13 +19,13 @@ A note: I've been running this on Mac for the past couple years, so there may be
 My base layer remains QWERTY-based, because every time I think of switching alpha layouts, I fall down the "which layout should I choose?" rabbithole until I get tired :-)
 Of course, the actual organization of the alpha layer isn't the secret sauce in a QWERTY-based layout and I think most of what I've done here would work just as well with Colemak or ASETNIOP or any of the others.
 
-![Base Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_0.png)
+![Base Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---base-layer.png)
 
 I've indicated a few things with colors in this layout. 
 Most notably, keys that trigger any kind of layer transition are colored in a particular color corresponding to the layer the lead to.
 In several cases, multiple keys can be used to get to a particular layer.
-TOs take you straight to the new layer, turning off every other layer except the base (QWERT) layer. 
-LTs and OSLs turn that new layer on temporarily, either while being held (LT and OSL) or for the next keystroke after it's pressed and released (OSL).
+TOs take you straight to the new layer, turning off every other layer except the BASE layer. 
+LTs and OSLs turn a new layer on temporarily, either while being held (LT and OSL) or for the next keystroke after it's pressed and released (OSL).
 If you get into a layer via an LT, if that same key has a function in the target layer, you won't be able to use it (so, e.g., I can't hold down ; to get into EDIT and expect to be able to use the Home key).
 
 I've used some of the "standard" qmk shorthand in this writeup, as well, and you see some of that on display in this layer. 
@@ -49,7 +49,7 @@ I had been using a Vortex Poker 3 keyboard before the 'dox and really appreciate
 So, when I got my new keyboard, obviously that was the first thing I replicated! 
 I'd also put a few AHK scripts together for the Pok3r for things like "move one word ahead" (option-right on Mac, control-right on Windows) and found them super useful for text editing, so I added those in, too, and before long I had the concept of a whole layer dedicated to editing text.
 
-![EDIT Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_edit.png)
+![EDIT Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria--edit-layer (1).png)
 
 Some of these features bear a bit of explanation.
 The "Move 1 Word Left" key, as an example (on Mac), sends LALT(KC_LEFT) (that is, option-left arrow) to jump back to the next word boundary, great for rapidly traversing text. 
