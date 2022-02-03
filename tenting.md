@@ -32,6 +32,22 @@ I used four sets of M3 machine screws/nuts/washers to affix the Gergo in the abo
 
 Good luck and happy tenting!
 
+Alternate mode: two clamps to clamp to table or chair arms!
+
+![Two clamp tenting setup 1 - chair arms](/images/Tent_2clamp_1.jpg)
+
+![Two clamp tenting setup 2 - chair arms](/images/Tent_2clamp_2.jpg)
+
+
+## Magnetic Phone Stand Tenting
+
+I think it was Obosob who first described this method of tenting to me. I bought some magnetic phone stands off of Amazon based on his suggestions and stuck the steel plates to my Kyria's caseback et voila!
+
+![Magnetic phone stand tenting setup 1](/images/Tent_mag_1.jpg)
+
+![Magnetic phone stand tenting setup 2](/images/Tent_mag_2.jpg)
+
+
 ## 3D Printed Lattice Tent/Tilt Stands
 
 [IMAGE]
