@@ -49,7 +49,7 @@ I had been using a Vortex Poker 3 keyboard before the 'dox and really appreciate
 So, when I got my new keyboard, obviously that was the first thing I replicated! 
 I'd also put a few AHK scripts together for the Pok3r for things like "move one word ahead" (option-right on Mac, control-right on Windows) and found them super useful for text editing, so I added those in, too, and before long I had the concept of a whole layer dedicated to editing text.
 
-![EDIT Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria--edit-layer (1).png)
+![EDIT Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria--edit-layer.png)
 
 Some of these features bear a bit of explanation.
 The "Move 1 Word Left" key, as an example (on Mac), sends LALT(KC_LEFT) (that is, option-left arrow) to jump back to the next word boundary, great for rapidly traversing text. 
