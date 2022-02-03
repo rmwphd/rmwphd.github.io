@@ -39,7 +39,7 @@ The "Move 1 Desktop" keys move you between adjacent Mac virtual desktops by send
 This is the next layer in the stack, so it's the next one I'll talk about. 
 It's a quite straightforward layer, overall, though I take advantage of the Ergodox's plentiful keys to get a little more bang for my layer buck than I do on, e.g., the equivalent Gergo keymap.
 
-![NUMPAD Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_numpad.png)
+![NUMPAD Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---numpad-layer.png)
 
 
 ## The EDIT Layer
@@ -49,7 +49,7 @@ I had been using a Vortex Poker 3 keyboard before the 'dox and really appreciate
 So, when I got my new keyboard, obviously that was the first thing I replicated! 
 I'd also put a few AHK scripts together for the Pok3r for things like "move one word ahead" (option-right on Mac, control-right on Windows) and found them super useful for text editing, so I added those in, too, and before long I had the concept of a whole layer dedicated to editing text.
 
-![EDIT Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria--edit-layer.png)
+![EDIT Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---edit-layer.png)
 
 Some of these features bear a bit of explanation.
 The "Move 1 Word Left" key, as an example (on Mac), sends LALT(KC_LEFT) (that is, option-left arrow) to jump back to the next word boundary, great for rapidly traversing text. 
@@ -66,9 +66,9 @@ Form PUT left clicks where your mouse is, then sends G(KC_A) then G(KC_V), overw
 These are some of my favorite layers in the layout and I find myself reaching for them constantly, especially anytime I'm coding. 
 Features like the home row punctuation, the parens/braces/brackets, and the equals, dash, underscore group massively reduce the amount of time I bring my hands out of home position.
 
-![FSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_flayer.png)
+![FSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---flayer.png)
 
-![JSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_jlayer.png)
+![JSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---jlayer.png)
 
 
 ## The MEDIA Layer
@@ -76,7 +76,7 @@ Features like the home row punctuation, the parens/braces/brackets, and the equa
 Here we have some controls for media and some mouse keys that I find occasionally useful for various tasks. 
 This layer is reasonbly self-explanatory.
 
-![MEDIA Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_media.png)
+![MEDIA Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---media-layer.png)
 
 It's nice to be able to bring my right hand down one row and have all of my media controls right there.
 
@@ -86,7 +86,7 @@ It's nice to be able to bring my right hand down one row and have all of my medi
 This is the least exciting layer and is more for safety than anything else. 
 If I want to hang out in FSYM layer for a while or I somehow get stuck in MEDIA, I've always got the option to pop over to ADJUST and bail out to the base layer.
 
-![ADJUST Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/Keyboard Layout Editor_adjust.png)
+![ADJUST Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---adjust-layer.png)
 
 
 
