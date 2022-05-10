@@ -66,6 +66,9 @@ I think it was Obosob who first described this method of tenting to me. I bought
 
 ## 3D Printed Lattice Tent/Tilt Stands
 
-[IMAGE]
+I designed this lattice-based stand for my work Ergodox using a Design-by-Programming software called Mithril, developed by my team at Siemens Technology for DARPA's TRAnsformative DESign (TRADES) program!
 
-Coming soon...
+![Lattice Stand 1](/images/lattice_stand_1.jpg)
+
+![Lattice Stand 2](/images/lattice_stand_2.jpg)
+
