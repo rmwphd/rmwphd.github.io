@@ -4,7 +4,7 @@
 
 When you want to try out the Tenting Puck but don't live in Europe.
 
-![Hardware Store Tenting Puck image](/images/hardware-tenting-puck.jpeg)
+![Hardware Store Tenting Puck image](/images/hardware_tenting_puck.jpeg)
 
 This little hack consists of 
 |     Part      |  Quantity | Lowes Link   |   Price   |
@@ -54,7 +54,6 @@ Alternate mode: two clamps to clamp to table or chair arms!
 
 ![Two clamp tenting setup 1 - chair arms](/images/Tent_2clamp_1.jpg)
 
-![Two clamp tenting setup 2 - chair arms](/images/Tent_2clamp_2.jpg)
 
 
 ## Magnetic Phone Stand Tenting
@@ -63,7 +62,6 @@ I think it was Obosob who first described this method of tenting to me. I bought
 
 ![Magnetic phone stand tenting setup 1](/images/Tent_mag_1.jpg)
 
-![Magnetic phone stand tenting setup 2](/images/Tent_mag_2.jpg)
 
 
 ## 3D Printed Lattice Tent/Tilt Stands
