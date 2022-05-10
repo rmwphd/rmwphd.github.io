@@ -1,4 +1,22 @@
 # Tenting
+
+## The "Hardware Store Tenting Puck"
+
+When you want to try out the Tenting Puck but don't live in Europe.
+
+![Hardware Store Tenting Puck image](/images/hardware-tenting-puck.jpeg)
+
+This little hack consists of 
+|     Part      |  Quantity | Lowes Link   |   Price   |
+| ------------- | --------- | ------------ | --------- |
+|  1.5" square mending plates  |    2     | https://www.lowes.com/pd/Hillman-1-1-2-in-x-1-1-2-in-Gauge-Triple-Zinc-Mending-Plates-3-Pack/3478205 | $3.98 for three |
+| 1/4-20 tee nuts | 2 | https://www.lowes.com/pd/Hillman-1-4-in-Stainless-Steel-Standard-SAE-Brad-Hole-Tee-Nut/3025380 | $3.23 |
+| M2 screws and nuts | 8 to 12 of each  | idk, Amazon or Mouser | cheap |
+
+Just screw the nut to the plate and the plate to the keeb.
+
+
+
 ## The Ballhead Method (aka "tripod-style")
 
 ![Tenting setup 1](/images/Tent1.jpg)
