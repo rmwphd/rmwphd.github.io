@@ -7,6 +7,7 @@ When you want to try out the Tenting Puck but don't live in Europe. I built this
 ![Hardware Store Tenting Puck image](/images/hardware_tenting_puck.jpeg) 
 
 This little hack consists of 
+
 |     Part      |  Quantity | Lowes Link   |   Price   |
 | ------------- | --------- | ------------ | --------- |
 |  1.5" square mending plates  |    2     | https://www.lowes.com/pd/Hillman-1-1-2-in-x-1-1-2-in-Gauge-Triple-Zinc-Mending-Plates-3-Pack/3478205 | $3.98 for three |
