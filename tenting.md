@@ -2,9 +2,9 @@
 
 ## The "Hardware Store Tenting Puck"
 
-When you want to try out the Tenting Puck but don't live in Europe.
+When you want to try out the Tenting Puck but don't live in Europe. I built this out of stuff from Lowes.
 
-![Hardware Store Tenting Puck image](/images/hardware_tenting_puck.jpeg)
+![Hardware Store Tenting Puck image](/images/hardware_tenting_puck.jpeg) 
 
 This little hack consists of 
 |     Part      |  Quantity | Lowes Link   |   Price   |
@@ -14,6 +14,10 @@ This little hack consists of
 | M2 screws and nuts | 8 to 12 of each  | idk, Amazon or Mouser | cheap |
 
 Just screw the nut to the plate and the plate to the keeb.
+
+Et voila!
+
+![Hardware Store Tenting Puck image 2](/images/portable_ferris_setup.jpeg) 
 
 
 
