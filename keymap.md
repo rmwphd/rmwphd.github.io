@@ -66,9 +66,9 @@ Form PUT left clicks where your mouse is, then sends G(KC_A) then G(KC_V), overw
 These are some of my favorite layers in the layout and I find myself reaching for them constantly, especially anytime I'm coding. 
 Features like the home row punctuation, the parens/braces/brackets, and the equals, dash, underscore group massively reduce the amount of time I bring my hands out of home position.
 
-![FSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---flayer.png)
+![FSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---symr-layer.png)
 
-![JSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---jlayer.png)
+![JSYM Layer - An image of the KLE output showing the locations of keycodes on my keymap](/images/kyria---syml-layer.png)
 
 
 ## The MEDIA Layer
